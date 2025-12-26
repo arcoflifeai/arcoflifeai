@@ -55,6 +55,8 @@ We build systems that prioritize:
 ---
 
 ## Status
+Note: We do not provide financial advice. All systems are technical implementations only.
+Contact: info@arcoflifeai.com
 
 Private development.  
 Public releases only when systems are production-ready.
